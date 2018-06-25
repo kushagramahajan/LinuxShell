@@ -1,0 +1,1296 @@
+Tue Sep  8 19:07:05 2015
+->ls
+
+Tue Sep  8 19:07:09 2015
+->history
+
+Tue Sep  8 19:07:22 2015
+->history
+
+Tue Sep  8 19:08:14 2015
+->ls
+
+Tue Sep  8 19:08:15 2015
+->ls
+
+Tue Sep  8 19:08:16 2015
+->ls
+
+Tue Sep  8 19:08:17 2015
+->history
+
+Tue Sep  8 19:09:39 2015
+->ls
+
+Tue Sep  8 19:09:42 2015
+->history
+
+Tue Sep  8 19:09:53 2015
+->pwd
+
+Tue Sep  8 19:09:54 2015
+->ls
+
+Tue Sep  8 19:09:56 2015
+->top
+
+Tue Sep  8 19:09:58 2015
+->ls
+
+Tue Sep  8 19:09:59 2015
+->clear
+
+Tue Sep  8 19:10:01 2015
+->history
+
+Tue Sep  8 19:12:52 2015
+->ls
+
+Tue Sep  8 19:12:53 2015
+->history
+
+Tue Sep  8 19:22:33 2015
+->top
+
+Tue Sep  8 19:22:39 2015
+->top | grep root
+
+Tue Sep  8 19:22:42 2015
+->ls
+
+Tue Sep  8 19:22:44 2015
+->ls
+
+Tue Sep  8 19:22:45 2015
+->ls
+
+Tue Sep  8 19:22:49 2015
+->exit
+
+Tue Sep  8 19:22:33 2015
+->top
+
+Tue Sep  8 19:22:39 2015
+->top | grep root
+
+Tue Sep  8 19:22:42 2015
+->ls
+
+Tue Sep  8 19:22:44 2015
+->ls
+
+Tue Sep  8 19:22:45 2015
+->ls
+
+Tue Sep  8 19:22:54 2015
+->gedit Shell.c
+
+Tue Sep  8 19:22:56 2015
+->ls
+
+Tue Sep  8 19:23:10 2015
+->top
+
+Tue Sep  8 19:23:13 2015
+->ls
+
+Tue Sep  8 19:23:20 2015
+->ls
+
+Tue Sep  8 19:23:24 2015
+->exit
+
+Tue Sep  8 19:22:33 2015
+->top
+
+Tue Sep  8 19:22:39 2015
+->top | grep root
+
+Tue Sep  8 19:22:42 2015
+->ls
+
+Tue Sep  8 19:22:44 2015
+->ls
+
+Tue Sep  8 19:23:27 2015
+->exit
+
+Tue Sep  8 19:22:33 2015
+->top
+
+Tue Sep  8 19:22:39 2015
+->top | grep root
+
+Tue Sep  8 19:22:42 2015
+->ls
+
+Tue Sep  8 19:23:28 2015
+->exit
+
+Tue Sep  8 19:23:43 2015
+->ls
+
+Tue Sep  8 19:23:44 2015
+->top
+
+Tue Sep  8 19:23:51 2015
+->ls|grep Makefile
+
+Tue Sep  8 19:24:32 2015
+->ls
+
+Tue Sep  8 19:24:35 2015
+->ls | grep Makefile
+
+Tue Sep  8 19:24:41 2015
+->ls | grep root
+
+Tue Sep  8 19:24:42 2015
+->ls
+
+Tue Sep  8 19:24:43 2015
+->ls
+
+Tue Sep  8 19:24:44 2015
+->pwd
+
+Tue Sep  8 19:24:46 2015
+->pwd
+
+Tue Sep  8 19:24:47 2015
+->pwd
+
+Tue Sep  8 19:24:48 2015
+->pwd
+
+Tue Sep  8 19:24:49 2015
+->pwd
+
+Tue Sep  8 19:24:50 2015
+->pwd
+
+Tue Sep  8 19:24:56 2015
+->cat Makefile
+
+Tue Sep  8 19:24:57 2015
+->ls
+
+Tue Sep  8 19:25:16 2015
+->top | grep root
+
+Tue Sep  8 19:25:19 2015
+->ls
+
+Tue Sep  8 19:25:20 2015
+->clear
+
+Tue Sep  8 19:25:27 2015
+->cat Makefile
+
+Tue Sep  8 19:25:28 2015
+->ls
+
+Tue Sep  8 19:25:29 2015
+->exit
+
+Tue Sep  8 19:24:32 2015
+->ls
+
+Tue Sep  8 19:24:35 2015
+->ls | grep Makefile
+
+Tue Sep  8 19:24:41 2015
+->ls | grep root
+
+Tue Sep  8 19:24:42 2015
+->ls
+
+Tue Sep  8 19:24:43 2015
+->ls
+
+Tue Sep  8 19:24:44 2015
+->pwd
+
+Tue Sep  8 19:24:46 2015
+->pwd
+
+Tue Sep  8 19:24:47 2015
+->pwd
+
+Tue Sep  8 19:24:48 2015
+->pwd
+
+Tue Sep  8 19:24:49 2015
+->pwd
+
+Tue Sep  8 19:24:50 2015
+->pwd
+
+Tue Sep  8 19:24:56 2015
+->cat Makefile
+
+Tue Sep  8 19:24:57 2015
+->ls
+
+Tue Sep  8 19:25:16 2015
+->top | grep root
+
+Tue Sep  8 19:25:19 2015
+->ls
+
+Tue Sep  8 19:25:20 2015
+->clear
+
+Tue Sep  8 19:25:32 2015
+->ls
+
+Tue Sep  8 19:25:35 2015
+->exit
+
+Tue Sep  8 19:24:32 2015
+->ls
+
+Tue Sep  8 19:24:35 2015
+->ls | grep Makefile
+
+Tue Sep  8 19:24:41 2015
+->ls | grep root
+
+Tue Sep  8 19:24:42 2015
+->ls
+
+Tue Sep  8 19:24:43 2015
+->ls
+
+Tue Sep  8 19:24:44 2015
+->pwd
+
+Tue Sep  8 19:24:46 2015
+->pwd
+
+Tue Sep  8 19:24:47 2015
+->pwd
+
+Tue Sep  8 19:24:48 2015
+->pwd
+
+Tue Sep  8 19:24:49 2015
+->pwd
+
+Tue Sep  8 19:24:50 2015
+->pwd
+
+Tue Sep  8 19:24:56 2015
+->cat Makefile
+
+Tue Sep  8 19:24:57 2015
+->ls
+
+Tue Sep  8 19:25:16 2015
+->top | grep root
+
+Tue Sep  8 19:25:19 2015
+->ls
+
+Tue Sep  8 19:25:20 2015
+->clear
+
+Tue Sep  8 19:25:32 2015
+->ls
+
+Tue Sep  8 19:25:36 2015
+->ls
+
+Tue Sep  8 19:25:44 2015
+->cd ..
+
+Tue Sep  8 19:25:45 2015
+->ls
+
+Tue Sep  8 19:25:48 2015
+->cd Shell
+
+Tue Sep  8 19:25:49 2015
+->ls
+
+Tue Sep  8 19:25:50 2015
+->exit
+
+Tue Sep  8 19:24:32 2015
+->ls
+
+Tue Sep  8 19:24:35 2015
+->ls | grep Makefile
+
+Tue Sep  8 19:24:41 2015
+->ls | grep root
+
+Tue Sep  8 19:24:42 2015
+->ls
+
+Tue Sep  8 19:24:43 2015
+->ls
+
+Tue Sep  8 19:24:44 2015
+->pwd
+
+Tue Sep  8 19:24:46 2015
+->pwd
+
+Tue Sep  8 19:24:47 2015
+->pwd
+
+Tue Sep  8 19:24:48 2015
+->pwd
+
+Tue Sep  8 19:24:49 2015
+->pwd
+
+Tue Sep  8 19:24:50 2015
+->pwd
+
+Tue Sep  8 19:24:56 2015
+->cat Makefile
+
+Tue Sep  8 19:24:57 2015
+->ls
+
+Tue Sep  8 19:25:16 2015
+->top | grep root
+
+Tue Sep  8 19:25:19 2015
+->ls
+
+Tue Sep  8 19:25:20 2015
+->clear
+
+Tue Sep  8 19:25:32 2015
+->ls
+
+Tue Sep  8 19:25:36 2015
+->ls
+
+Tue Sep  8 19:25:52 2015
+->ls
+
+Tue Sep  8 19:25:53 2015
+->exit
+
+Tue Sep  8 19:24:32 2015
+->ls
+
+Tue Sep  8 19:24:35 2015
+->ls | grep Makefile
+
+Tue Sep  8 19:24:41 2015
+->ls | grep root
+
+Tue Sep  8 19:24:42 2015
+->ls
+
+Tue Sep  8 19:24:43 2015
+->ls
+
+Tue Sep  8 19:24:44 2015
+->pwd
+
+Tue Sep  8 19:24:46 2015
+->pwd
+
+Tue Sep  8 19:24:47 2015
+->pwd
+
+Tue Sep  8 19:24:48 2015
+->pwd
+
+Tue Sep  8 19:24:49 2015
+->pwd
+
+Tue Sep  8 19:24:50 2015
+->pwd
+
+Tue Sep  8 19:24:56 2015
+->cat Makefile
+
+Tue Sep  8 19:24:57 2015
+->ls
+
+Tue Sep  8 19:25:16 2015
+->top | grep root
+
+Tue Sep  8 19:25:19 2015
+->ls
+
+Tue Sep  8 19:25:20 2015
+->clear
+
+Tue Sep  8 19:25:32 2015
+->ls
+
+Tue Sep  8 19:25:36 2015
+->ls
+
+Tue Sep  8 19:25:52 2015
+->ls
+
+Tue Sep  8 19:25:56 2015
+->
+
+Tue Sep  8 19:26:03 2015
+->cat Shell.c
+
+Tue Sep  8 19:26:06 2015
+->ls
+
+Tue Sep  8 19:26:09 2015
+->exit
+
+Tue Sep  8 19:26:49 2015
+->ls | grep root
+
+Tue Sep  8 19:26:51 2015
+->ls
+
+Tue Sep  8 19:26:55 2015
+->cat Makefile
+
+Tue Sep  8 19:26:59 2015
+->ls
+
+Tue Sep  8 19:27:00 2015
+->ls
+
+Tue Sep  8 19:27:02 2015
+->exit
+
+Tue Sep  8 19:26:49 2015
+->ls | grep root
+
+Tue Sep  8 19:26:51 2015
+->ls
+
+Tue Sep  8 19:27:03 2015
+->exit
+
+Tue Sep  8 19:27:22 2015
+->ls
+
+Tue Sep  8 19:27:25 2015
+->ls | grep root
+
+Tue Sep  8 19:27:26 2015
+->ls
+
+Tue Sep  8 19:27:31 2015
+->cat Makefile
+
+Tue Sep  8 19:27:31 2015
+->ls
+
+Tue Sep  8 19:27:33 2015
+->exit
+
+Tue Sep  8 19:27:22 2015
+->ls
+
+Tue Sep  8 19:27:25 2015
+->ls | grep root
+
+Tue Sep  8 19:27:26 2015
+->ls
+
+Tue Sep  8 19:27:35 2015
+->exit
+
+Tue Sep  8 19:29:53 2015
+->ls
+
+Tue Sep  8 19:29:54 2015
+->ls
+
+Tue Sep  8 19:29:58 2015
+->ls | grep Shell
+
+Tue Sep  8 19:29:58 2015
+->ls
+
+Tue Sep  8 19:30:01 2015
+->ls
+
+Tue Sep  8 19:30:02 2015
+->ls
+
+Tue Sep  8 19:30:04 2015
+->ls
+
+Tue Sep  8 19:30:05 2015
+->ls
+
+Tue Sep  8 19:30:05 2015
+->ls
+
+Tue Sep  8 19:30:06 2015
+->ls
+
+Tue Sep  8 19:30:06 2015
+->ls
+
+Tue Sep  8 19:30:07 2015
+->ls
+
+Tue Sep  8 19:30:07 2015
+->ls
+
+Tue Sep  8 19:30:08 2015
+->ls
+
+Tue Sep  8 19:30:09 2015
+->ls
+
+Tue Sep  8 19:30:11 2015
+->grep
+
+Tue Sep  8 19:30:13 2015
+->cat Makefile
+
+Tue Sep  8 19:30:15 2015
+->ls
+
+Tue Sep  8 19:30:23 2015
+->exit
+
+Tue Sep  8 19:29:53 2015
+->ls
+
+Tue Sep  8 19:29:54 2015
+->ls
+
+Tue Sep  8 19:29:58 2015
+->ls | grep Shell
+
+Tue Sep  8 19:29:58 2015
+->ls
+
+Tue Sep  8 19:30:01 2015
+->ls
+
+Tue Sep  8 19:30:02 2015
+->ls
+
+Tue Sep  8 19:30:04 2015
+->ls
+
+Tue Sep  8 19:30:05 2015
+->ls
+
+Tue Sep  8 19:30:05 2015
+->ls
+
+Tue Sep  8 19:30:06 2015
+->ls
+
+Tue Sep  8 19:30:06 2015
+->ls
+
+Tue Sep  8 19:30:07 2015
+->ls
+
+Tue Sep  8 19:30:07 2015
+->ls
+
+Tue Sep  8 19:30:08 2015
+->ls
+
+Tue Sep  8 19:30:09 2015
+->ls
+
+Tue Sep  8 19:30:11 2015
+->grep
+
+Tue Sep  8 19:30:24 2015
+->exit
+
+Tue Sep  8 19:29:53 2015
+->ls
+
+Tue Sep  8 19:29:54 2015
+->ls
+
+Tue Sep  8 19:29:58 2015
+->ls | grep Shell
+
+Tue Sep  8 19:29:58 2015
+->ls
+
+Tue Sep  8 19:30:01 2015
+->ls
+
+Tue Sep  8 19:30:02 2015
+->ls
+
+Tue Sep  8 19:30:04 2015
+->ls
+
+Tue Sep  8 19:30:05 2015
+->ls
+
+Tue Sep  8 19:30:05 2015
+->ls
+
+Tue Sep  8 19:30:06 2015
+->ls
+
+Tue Sep  8 19:30:06 2015
+->ls
+
+Tue Sep  8 19:30:07 2015
+->ls
+
+Tue Sep  8 19:30:07 2015
+->ls
+
+Tue Sep  8 19:30:08 2015
+->ls
+
+Tue Sep  8 19:30:09 2015
+->ls
+
+Tue Sep  8 19:30:25 2015
+->exit
+
+Tue Sep  8 19:31:26 2015
+->ls | grep Shell
+
+Tue Sep  8 19:31:27 2015
+->ls
+
+Tue Sep  8 19:31:28 2015
+->ls
+
+Tue Sep  8 19:31:29 2015
+->exit
+
+Tue Sep  8 19:31:26 2015
+->ls | grep Shell
+
+Tue Sep  8 19:31:27 2015
+->ls
+
+Tue Sep  8 19:31:28 2015
+->ls
+
+Tue Sep  8 19:31:30 2015
+->exit
+
+Tue Sep  8 19:31:26 2015
+->ls | grep Shell
+
+Tue Sep  8 19:31:27 2015
+->ls
+
+Tue Sep  8 19:31:31 2015
+->exit
+
+Tue Sep  8 19:33:28 2015
+->ls
+
+Tue Sep  8 19:33:31 2015
+->ls | grep Shell
+
+Tue Sep  8 19:33:32 2015
+->ls
+
+Tue Sep  8 19:33:35 2015
+->ls | grep root
+
+Tue Sep  8 19:33:35 2015
+->ls
+
+Tue Sep  8 19:33:39 2015
+->top | grep root
+
+Tue Sep  8 19:33:41 2015
+->ls
+
+Tue Sep  8 19:33:48 2015
+->ls | grep root
+
+Tue Sep  8 19:33:49 2015
+->ls
+
+Tue Sep  8 19:33:51 2015
+->pwd
+
+Tue Sep  8 19:33:55 2015
+->cat Makefile
+
+Tue Sep  8 19:33:56 2015
+->ls
+
+Tue Sep  8 19:34:00 2015
+->cat Hist.txt
+
+Tue Sep  8 19:35:03 2015
+->man pipe
+
+Tue Sep  8 19:35:18 2015
+->help
+
+Tue Sep  8 19:35:38 2015
+->history
+
+Tue Sep  8 19:36:46 2015
+->history
+
+Tue Sep  8 19:36:49 2015
+->clear
+
+Tue Sep  8 19:36:56 2015
+->
+
+Tue Sep  8 19:38:25 2015
+->ls
+
+Tue Sep  8 19:38:28 2015
+->history
+
+Tue Sep  8 19:38:31 2015
+->exit
+
+Tue Sep  8 19:38:55 2015
+->ls
+
+Tue Sep  8 19:39:34 2015
+->ls
+
+Tue Sep  8 19:39:34 2015
+->ls
+
+Tue Sep  8 19:40:12 2015
+->exit
+
+Wed Sep  9 07:59:49 2015
+->history
+
+Wed Sep  9 07:59:51 2015
+->ls
+
+Wed Sep  9 07:59:53 2015
+->history
+
+Wed Sep  9 07:59:56 2015
+->
+
+Wed Sep  9 07:59:56 2015
+->
+
+Wed Sep  9 08:00:49 2015
+->history
+
+Wed Sep  9 08:00:51 2015
+->ls
+
+Wed Sep  9 08:00:53 2015
+->history
+
+Wed Sep  9 08:00:58 2015
+->
+
+Wed Sep  9 08:02:31 2015
+->ls
+
+Wed Sep  9 08:02:32 2015
+->history
+
+Wed Sep  9 08:02:35 2015
+->pwd
+
+Wed Sep  9 08:02:37 2015
+->history
+
+Wed Sep  9 08:02:42 2015
+->history
+
+Wed Sep  9 08:02:48 2015
+->history
+
+Wed Sep  9 08:02:50 2015
+->top
+
+Wed Sep  9 08:02:54 2015
+->history
+
+Wed Sep  9 08:02:57 2015
+->ls
+
+Wed Sep  9 08:03:03 2015
+->exit
+
+Wed Sep  9 08:02:46 2015
+->
+
+Wed Sep  9 08:02:46 2015
+->
+
+Wed Sep  9 08:02:40 2015
+->
+
+Wed Sep  9 08:02:40 2015
+->
+
+Wed Sep  9 08:02:40 2015
+->
+
+Wed Sep  9 08:02:40 2015
+->
+
+Wed Sep  9 08:05:22 2015
+->ls
+
+Wed Sep  9 08:05:24 2015
+->cd cmd
+
+Wed Sep  9 08:05:27 2015
+->ls
+
+Wed Sep  9 08:06:11 2015
+->ls
+
+Wed Sep  9 08:06:17 2015
+->top | grep root
+
+Wed Sep  9 08:06:19 2015
+->ls
+
+Wed Sep  9 08:06:39 2015
+->cat Shell.c
+
+Wed Sep  9 08:11:07 2015
+->ls
+
+Wed Sep  9 08:11:10 2015
+->top
+
+Wed Sep  9 08:11:16 2015
+->exit
+
+Wed Sep  9 11:30:06 2015
+->ls
+
+Wed Sep  9 11:30:12 2015
+->top | grep root
+
+Wed Sep  9 11:30:17 2015
+->ls
+
+Wed Sep  9 11:30:19 2015
+->pwd
+
+Wed Sep  9 11:30:22 2015
+->history
+
+Wed Sep  9 11:30:33 2015
+->exit
+
+Thu Sep 10 08:49:06 2015
+->ls
+
+Thu Sep 10 08:49:09 2015
+->history
+
+Thu Sep 10 08:49:12 2015
+->pwd
+
+Thu Sep 10 08:49:15 2015
+->history
+
+Thu Sep 10 08:49:20 2015
+->top | grep root
+
+Thu Sep 10 08:49:23 2015
+->ls
+
+Thu Sep 10 08:49:27 2015
+->cat abc.txt
+
+Thu Sep 10 08:49:28 2015
+->ls
+
+Thu Sep 10 08:49:40 2015
+->top | grep root > abc.txt
+
+Thu Sep 10 08:49:41 2015
+->ls
+
+Thu Sep 10 08:49:43 2015
+->cat abc.txt
+
+Thu Sep 10 08:49:50 2015
+->top | grep root > abc.txt
+
+Thu Sep 10 08:49:53 2015
+->ls
+
+Thu Sep 10 08:49:55 2015
+->abc.txt
+
+Thu Sep 10 08:49:55 2015
+->abc.txt
+
+Thu Sep 10 08:49:58 2015
+->cat abc.txt
+
+Thu Sep 10 08:50:05 2015
+->ls
+
+Thu Sep 10 08:50:09 2015
+->rm abc.txt
+
+Thu Sep 10 08:50:09 2015
+->;s
+
+Thu Sep 10 08:50:09 2015
+->;s
+
+Thu Sep 10 08:50:11 2015
+->ls
+
+Thu Sep 10 08:50:25 2015
+->top | grep root > abc.txt
+
+Thu Sep 10 08:50:25 2015
+->ls
+
+Thu Sep 10 08:50:34 2015
+->top > abc.txt
+
+Thu Sep 10 08:50:38 2015
+->ls
+
+Thu Sep 10 08:50:40 2015
+->cat abc.txt
+
+Thu Sep 10 08:50:40 2015
+->ls
+
+Thu Sep 10 08:50:44 2015
+->history
+
+Thu Sep 10 08:50:46 2015
+->exit
+
+Thu Sep 10 13:40:54 2015
+->ls
+
+Thu Sep 10 13:41:00 2015
+->top
+
+Thu Sep 10 13:41:29 2015
+->ls
+
+Thu Sep 10 13:41:29 2015
+->top
+
+Thu Sep 10 13:42:39 2015
+->exit
+
+Thu Sep 10 13:41:52 2015
+->
+
+Thu Sep 10 13:41:50 2015
+->
+
+Thu Sep 10 13:41:49 2015
+->
+
+Thu Sep 10 13:41:47 2015
+->
+
+Thu Sep 10 13:43:05 2015
+->ls
+
+Thu Sep 10 13:43:06 2015
+->top
+
+Thu Sep 10 13:43:54 2015
+->ls
+
+Thu Sep 10 13:43:55 2015
+->top
+
+Thu Sep 10 13:44:30 2015
+->ls
+
+Thu Sep 10 13:44:34 2015
+->pwd
+
+Thu Sep 10 13:44:34 2015
+->ps
+
+Thu Sep 10 13:44:32 2015
+->
+
+Thu Sep 10 13:44:34 2015
+->ps
+
+Thu Sep 10 13:44:36 2015
+->top
+
+Thu Sep 10 13:44:40 2015
+->top | grep root
+
+Thu Sep 10 13:44:48 2015
+->top > abc.txt
+
+Thu Sep 10 13:44:58 2015
+->cat abc.txt
+
+Thu Sep 10 13:45:01 2015
+->ls
+
+Thu Sep 10 13:45:02 2015
+->pwd
+
+Thu Sep 10 13:45:07 2015
+->cd ..
+
+Thu Sep 10 13:45:09 2015
+->ls
+
+Thu Sep 10 13:45:12 2015
+->exit
+
+Thu Sep 10 13:44:32 2015
+->
+
+Thu Sep 10 13:45:17 2015
+->history
+
+Thu Sep 10 13:45:18 2015
+->ls
+
+Thu Sep 10 13:45:20 2015
+->ls
+
+Thu Sep 10 13:45:22 2015
+->history
+
+Thu Sep 10 13:45:24 2015
+->exit
+
+Thu Oct  1 09:36:22 2015
+->ls
+
+Thu Oct  1 09:36:24 2015
+->top
+
+Thu Oct  1 09:36:46 2015
+->top | grep root
+
+Thu Oct  1 09:36:49 2015
+->ls
+
+Thu Oct  1 09:36:50 2015
+->pwd
+
+Thu Oct  1 09:36:55 2015
+->history
+
+Thu Oct  1 09:36:58 2015
+->ls
+
+Thu Oct  1 09:37:00 2015
+->cat cmd
+
+Thu Oct  1 09:37:08 2015
+->cat abc.txt
+
+Thu Oct  1 09:37:12 2015
+->ls
+
+Thu Oct  1 09:37:16 2015
+->ls
+
+Thu Oct  1 09:37:18 2015
+->cd cmd
+
+Thu Oct  1 09:37:18 2015
+->ls
+
+Thu Oct  1 09:37:19 2015
+->cd ..
+
+Thu Oct  1 09:37:20 2015
+->ls
+
+Thu Oct  1 09:37:24 2015
+->exit
+
+Thu Oct  1 09:36:51 2015
+->help
+
+Thu Oct  1 10:18:52 2015
+->ls -l
+
+Thu Oct  1 10:18:56 2015
+->ls -ll
+
+Thu Oct  1 10:19:34 2015
+->top
+
+Thu Oct  1 10:21:53 2015
+->ls -l > abc.txt
+
+Thu Oct  1 10:21:54 2015
+->ls
+
+Thu Oct  1 10:21:56 2015
+->cat abc.txt
+
+Thu Oct  1 10:22:05 2015
+->exit
+
+Thu Oct  1 12:47:31 2015
+->ls -l
+
+Thu Oct  1 12:47:33 2015
+->ls
+
+Thu Oct  1 12:47:40 2015
+->top
+
+Thu Oct  1 12:47:48 2015
+->top | grep root
+
+Thu Oct  1 12:48:16 2015
+->top
+
+Thu Oct  1 12:48:23 2015
+->ls
+
+Thu Oct  1 12:48:37 2015
+->ls > abc.txt
+
+Thu Oct  1 12:48:38 2015
+->ls
+
+Thu Oct  1 12:48:42 2015
+->cat abc.txt
+
+Thu Oct  1 12:48:56 2015
+->grep cmd < abc.txt
+
+Thu Oct  1 12:49:01 2015
+->history
+
+Thu Oct  1 12:49:04 2015
+->clear
+
+Thu Oct  1 12:49:29 2015
+->exit
+
+Thu Oct  1 12:49:21 2015
+->
+
+Thu Oct  1 12:48:13 2015
+->
+
+Thu Oct  1 12:47:24 2015
+->help
+
+Sat Oct 10 07:43:13 2015
+->ls
+
+Sat Oct 10 07:43:15 2015
+->ls -l
+
+Sat Oct 10 07:43:19 2015
+->ll
+
+Sat Oct 10 07:43:19 2015
+->ll
+
+Sat Oct 10 07:43:20 2015
+->pwd
+
+Sat Oct 10 07:43:21 2015
+->ps
+
+Sat Oct 10 07:43:21 2015
+->ps
+
+Sat Oct 10 07:43:27 2015
+->top
+
+Sat Oct 10 07:43:32 2015
+->top | grep root
+
+Sat Oct 10 07:43:34 2015
+->ls
+
+Sat Oct 10 07:43:36 2015
+->ls
+
+Sat Oct 10 07:43:36 2015
+->ls
+
+Sat Oct 10 07:43:39 2015
+->cat Makefile
+
+Sat Oct 10 07:43:54 2015
+->ls
+
+Sat Oct 10 07:43:55 2015
+->s
+
+Sat Oct 10 07:43:55 2015
+->s
+
+Sat Oct 10 07:43:57 2015
+->cat abc.txt
+
+Sat Oct 10 07:44:07 2015
+->grep cmd < abc.txt
+
+Sat Oct 10 07:44:08 2015
+->ls
+
+Sat Oct 10 07:44:14 2015
+->last
+
+Sat Oct 10 07:44:14 2015
+->last
+
+Sat Oct 10 07:44:15 2015
+->last
+
+Sat Oct 10 07:44:15 2015
+->last
+
+Sat Oct 10 07:44:16 2015
+->last
+
+Sat Oct 10 07:44:16 2015
+->last
+
+Sat Oct 10 07:44:18 2015
+->cd
+
+Sat Oct 10 07:44:20 2015
+->cd ..
+
+Sat Oct 10 07:44:21 2015
+->ls
+
+Sat Oct 10 07:44:25 2015
+->cd Shell
+
+Sat Oct 10 07:44:25 2015
+->ls
+
+Sat Oct 10 07:44:26 2015
+->ls
+
+Sat Oct 10 07:44:29 2015
+->exit
+
