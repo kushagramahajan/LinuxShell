@@ -68,7 +68,7 @@ void Execio(char token[][1024],int pos)
 	}
 	if(pos==1)
 				{
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0]);
 					if(execl(path,token[0],NULL)<0)
 					{
@@ -78,7 +78,7 @@ void Execio(char token[][1024],int pos)
 				}
 				else if(pos==2)
 				{
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0]);
 					if(execl(path,token[0],token[1],NULL)<0)
 					{
@@ -88,7 +88,7 @@ void Execio(char token[][1024],int pos)
 				}
 				else if(pos==3)
 				{
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0]);
 					if(execl(path,token[0],token[1],token[2],NULL)<0)
 					{
@@ -121,7 +121,7 @@ void Exec(char token[][1024],int pos)
 			{
 				if(pos==1)
 				{
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0]);
 					if(execl(path,token[0],NULL)<0)
 					{
@@ -131,7 +131,7 @@ void Exec(char token[][1024],int pos)
 				}
 				else if(pos==2)
 				{
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0]);
 					if(execl(path,token[0],token[1],NULL)<0)
 					{
@@ -141,7 +141,7 @@ void Exec(char token[][1024],int pos)
 				}
 				else if(pos==3)
 				{
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0]);
 					if(execl(path,token[0],token[1],token[2],NULL)<0)
 					{
@@ -161,7 +161,7 @@ void Exec(char token[][1024],int pos)
 			{
 				if(strcmp(token[1+(pos+1)],"")==0&&strcmp(token[2+(pos+1)],"")==0)
 				{			
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0+(pos+1)]);	
 					if(execl(path,token[0+(pos+1)],NULL)<0)
 					{
@@ -173,7 +173,7 @@ void Exec(char token[][1024],int pos)
 				}
 				else if(strcmp(token[1+(pos+1)],"")!=0&&strcmp(token[2+(pos+1)],"")==0)
 				{							
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";
 					strcat(path,token[0+(pos+1)]);
 					if(execl(path,token[0+(pos+1)],token[1+(pos+1)],NULL)<0)
 					{
@@ -184,7 +184,7 @@ void Exec(char token[][1024],int pos)
 				}
 				else if(strcmp(token[1+(pos+1)],"")!=0&&strcmp(token[2+(pos+1)],"")!=0)
 				{							
-					char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+					char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 					strcat(path,token[0+(pos+1)]);	
 					if(execl(path,token[0+(pos+1)],token[1+(pos+1)],token[2+(pos+1)],NULL)<0)
 					{
@@ -213,7 +213,7 @@ void Execute(char token[][1024])
 		if(strcmp(token[1],"")==0&&strcmp(token[2],"")==0)
 		{
 			
-			char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+			char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 			strcat(path,token[0]);	
 			if(execlp(path,token[0],NULL)<0)
 			{
@@ -224,7 +224,7 @@ void Execute(char token[][1024])
 		}
 		else if(strcmp(token[1],"")!=0&&strcmp(token[2],"")==0)
 		{							
-			char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";
+			char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";
 			strcat(path,token[0]);
 			if(execlp(path,token[0],token[1],NULL)<0)
 			{
@@ -235,7 +235,7 @@ void Execute(char token[][1024])
 		}
 		else if(strcmp(token[1],"")!=0&&strcmp(token[2],"")!=0)
 		{							
-			char path[50]="/home/rajeev/Desktop/OS/Shell/cmd/";		
+			char path[50]="/home/kushagra/Desktop/OS/LinuxShell/cmd/";		
 			strcat(path,token[0]);	
 			if(execlp(path,token[0],token[1],token[2],NULL)<0)
 			{
@@ -266,9 +266,9 @@ int main()
 		char dir[100];
 		getcwd(dir,100*sizeof(char));
 		printf("%s>>",dir);		
-		printf("rajeev@RShell$ ");
+		printf("kushagra@RShell$ ");
 		fgets(word,1024,stdin); 
-		fp  = fopen("/home/rajeev/Desktop/OS/Shell/Hist.txt","a");
+		fp  = fopen("/home/kushagra/Desktop/OS/LinuxShell/Hist.txt","a");
 		if(history==NULL)
 		{
 			history = (struct his*)malloc(sizeof(struct his));			
@@ -349,7 +349,7 @@ int main()
 			printf("\nCommands which you have previously used:\n\n");
 			if(fork()==0)
 			{
-				execl("/home/rajeev/Desktop/OS/Shell/cmd/cat","cat","/home/rajeev/Desktop/OS/Shell/Hist.txt",NULL);
+				execl("/home/kushagra/Desktop/OS/LinuxShell/cmd/cat","cat","/home/kushagra/Desktop/OS/LinuxShell/Hist.txt",NULL);
 			}
 			else
 			{
